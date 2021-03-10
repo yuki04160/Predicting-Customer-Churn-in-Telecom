@@ -1,2 +1,2 @@
 # Predict-Customer-Churn-in-Telecom-
-Build predictive modeling in R using Kaggle data set
+Build Logistic Regression and Decision Tree in R using Kaggle dataset "Telco Customer Churn."
