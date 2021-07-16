@@ -5,8 +5,8 @@ Customer churn is defined as the loss of clients. In a telecommunications compan
 ## Data Modeling
 1. Training (0.7) and Test (0.3) datasets
 2. Logistic Regression
-   -  Compute Information Values
-   -  Detect Multicollinearity problem
+   -  Compute Information Values (IV)
+   -  Detect multicollinearity problem
    -  Decide on optimal prediction probability cutoff
 3. Decision Tree
    - Plot the tree
