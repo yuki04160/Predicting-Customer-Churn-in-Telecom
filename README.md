@@ -9,7 +9,7 @@ Customer churn is defined as the loss of clients. In a telecommunications compan
    -  Detect and solve multicollinearity problem
    -  Decide on optimal prediction probability cutoff
 3. Decision Tree
-   - Plot the tree
+   - Plot and interpret the tree
 ## Model Evaluation
    - ROC Curve
    - Sensitivity and Specificity
