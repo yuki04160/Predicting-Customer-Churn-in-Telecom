@@ -19,5 +19,5 @@ Customer churn is defined as the loss of clients. In a telecommunications compan
    - Feature Importance
 ## Conclusion
 1. Since the company would like to know which customers are highly likely to leave in the future, Logit model 2 performed better since it has a higher AUROC, Sensitivity, Recall, and F1-Score.
-2. In terms of significant predictors, “Contract” and “tenure” have the most significant influence on predicting customer churn. Thus, to keep customers, I will suggest the company establish a long-term stable relationship with customers, for example encouraging customers to sign a long-term contract when starting.
+2. In terms of significant predictors, overall, “Contract” and “tenure” have the most significant influence on predicting customer churn. Thus, to keep customers, I will suggest the company establish a long-term stable relationship with customers, for example encouraging customers to sign a long-term contract when starting.
 3. In the future, since the True Positive Rate of two models are not high enough (0.53 and 0.38), we can keep optimizing models by balancing training dataset, performing regularization regression, tuning decision tree, or using ensemble learning methods.
