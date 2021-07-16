@@ -3,11 +3,12 @@ Previously, I finished the [EDA - Customer Churn in Telcom](https://github.com/y
 ## Introduction
 Customer churn is defined as the loss of clients. In a telecommunications company, customer attrition is one of the key business metrics. Thus, this project aims to use customer churn analysis to forecast the behavior of telecom customers who are more likely to leave, and provide a reasonable churn prediction for customer retention marketing programs.
 ## Data Modeling
-1. Logistic Regression
+1. Training (0.7) and Test (0.3) Samples
+2. Logistic Regression
    -  Compute Information Values
    -  Detect Multicollinearity problem
    -  Decide on optimal prediction probability cutoff
-2. Decision Tree
+3. Decision Tree
 ## Model Evaluation
    - ROC Curve
    - Sensitivity and Specificity
