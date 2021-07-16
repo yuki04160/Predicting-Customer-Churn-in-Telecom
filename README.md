@@ -1,7 +1,7 @@
 # Predicting Customer Churn in Telecom
 Previously, I have finished the [EDA - Customer Churn in Telcom](https://github.com/yuki04160/EDA-Customer-Churn-in-Telecom) for the Telco Customer Churn dataset. 
 ## Introduction
-Customer churn is defined as the loss of clients. In a telecommunications company, customer attrition is one of the key business metrics. Thus, this project aims to use customer churn analysis to forecast the behavior of telecom customers who are more likely to leave, and provide a reasonable churn prediction for customer retention marketing programs.
+Customer churn is defined as the loss of clients. In a telecommunications company, customer attrition is one of the key business metrics. Thus, this project aims to use customer churn analysis to forecast the behavior of telecom customers who are more likely to leave, provide a reasonable churn prediction for customer retention marketing programs, and give some data-driven recommendations .
 ## Data Modeling
 1. Training (0.7) and Test (0.3) datasets
 2. Logistic Regression
