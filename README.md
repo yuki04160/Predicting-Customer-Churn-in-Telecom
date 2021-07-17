@@ -5,11 +5,11 @@ Customer churn is defined as the loss of clients. In a telecommunications compan
 ## Data Modeling
    - Split into training (0.7) and test (0.3)
 1. Logistic regression
-   -  I computed information values to perform feature selection
-   -  I detected and solved multicollinearity problem
-   -  I decided on optimal prediction probability cutoff using optimalCutoff function
+   -  I computed information values to perform feature selection.
+   -  I detected and solved multicollinearity problem.
+   -  I decided on optimal prediction probability cutoff using optimalCutoff function.
 2. Decision tree
-   - I plotted and interpreted the tree
+   - I plotted and interpreted the tree.
 ## Classification Model Evaluation
    - ROC curve
    - Sensitivity and Specificity
