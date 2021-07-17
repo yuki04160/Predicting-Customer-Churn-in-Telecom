@@ -1,15 +1,15 @@
 # Predicting Customer Churn in Telecom
 Previously, I finished the EDA: [EDA-Customer Churn in Telcom](https://github.com/yuki04160/EDA-Customer-Churn-in-Telecom), and here to predict customer churn, I built a logistic regression and a decision tree in R using the same Kaggle dataset - [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn).
-## Introduction
-Customer churn is defined as the loss of clients. In a telecommunications company, customer attrition is one of the key business metrics. Thus, this project aims to predict customer churn, use customer churn analysis to forecast the behavior of telecom customers who are more likely to leave, and give some data-driven recommendations .
+## Project Background
+Customer churn is defined as the loss of clients. In a telecommunications company, customer attrition is one of the key business metrics. Thus, this project aims to predict customer churn, use customer churn analysis to forecast the behavior of telecom customers who are more likely to leave, and give some data-driven recommendations.
 ## Data Modeling
-1. Split into training (0.7) and test (0.3)
-2. Logistic regression
-   -  Compute information values (feature selection)
-   -  Detect and solve multicollinearity problem
-   -  Decide on optimal prediction probability cutoff
-3. Decision Tree
-   - Plot and interpret the tree
+   - Split into training (0.7) and test (0.3)
+1. Logistic regression
+   -  I computed information values to perform feature selection
+   -  I detected and solved multicollinearity problem
+   -  I decided on optimal prediction probability cutoff using optimalCutoff function
+2. Decision tree
+   - I plotted and interpreted the tree
 ## Classification Model Evaluation
    - ROC curve
    - Sensitivity and Specificity
