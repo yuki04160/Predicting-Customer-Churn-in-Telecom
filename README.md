@@ -19,7 +19,7 @@ Customer churn is defined as the loss of clients. In a telecommunications compan
    - Feature importance
 ## Conclusion
 
-**Models**|Logit Model 2 | Decision Tree
+**Model**|Logit Model 2| Decision Tree
 -----|-----|----- 
 **AUROC**|0.8387|0.6474
 **Sensitivity**|0.53|0.38
