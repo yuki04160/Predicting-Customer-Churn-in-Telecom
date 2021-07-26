@@ -6,7 +6,7 @@ Customer churn is defined as the loss of clients. In a telecommunications compan
    - Split into training (0.7) and test (0.3)
 1. Logistic regression
    -  I computed Information values (IV) to perform feature selection.
-   -  I detected and solved multicollinearity problem.
+   -  I detected multicollinearity problem using VIF function and solved it using.
    -  I decided on optimal prediction probability cutoff using optimalCutoff function.
 2. Decision tree
    - I plotted and interpreted the tree.
